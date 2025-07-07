@@ -71,9 +71,6 @@ npm install primeicons
 
 npm install primeflex. (para utilidades css)
 
-## Desarrollador
-- CORTES CORTES BRYAN AXEL
-
 # Install components in the WSL
 ng generate component shared/components/header
 
